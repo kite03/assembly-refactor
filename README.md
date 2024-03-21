@@ -2,8 +2,8 @@
 Simple program that renames all classes, methods and fields in a .NET binary.
 
 <div style="display:flex; justify-content:center;">
-  <img src="https://github.com/kite03/assembly-refactor/assets/67329371/53d1012d-adce-4b8d-89db-9ce63ed703e2" alt="before" height="400"/>
-  <img src="https://github.com/kite03/assembly-refactor/assets/67329371/920c038b-0c0e-40a9-a477-4ff1a425f9d4" alt="after" height="400"/>
+  <img src="https://github.com/kite03/assembly-refactor/assets/67329371/dd62c5c8-ae05-49d7-b4b7-ebf59976cd2d" alt="before" height="400"/>
+  <img src="https://github.com/kite03/assembly-refactor/assets/67329371/4cd75aaa-2fe4-4bcf-a82b-086cbea600a5" alt="after" height="400"/>
 </div>
 
 ## How to use (Unity games)
