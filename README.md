@@ -16,3 +16,6 @@ IL2Cpp has become a popular amongst game developers as a tool to "protect" their
 obfuscating the code in their games in order to make it harder to reverse engineer.
 
 I created this program to assist me in reversing these protected assemblies by making them more manageable and easier to read.
+
+### Dependencies
+[dnlib](https://github.com/0xd4d/dnlib), .NET module/assembly reader/writer library
